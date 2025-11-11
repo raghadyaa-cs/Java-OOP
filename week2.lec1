@@ -1,4 +1,4 @@
-package edu.zuj.oop.pkg16.week3.lec1.hw1;
+package edu.zuj.oop.pkg16.week2.lec1.hw1;
 import java.util.Scanner;
 public class test1 {
   public static void main(String[] args) {
@@ -74,4 +74,5 @@ System.out.println("the following is a list the unit conversions that can be per
    
     }
 }
+
 
